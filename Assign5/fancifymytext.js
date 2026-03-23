@@ -9,7 +9,7 @@ function AlertBoxTest() {
 }
 
 function FancyRadio(){
-    alert("Fancy application will happen to the Text area");
+    alert("Fancy application will happen to the Text area, change text to be bold, blue and underlined");
 
     document.getElementById("textarea1").style.fontWeight="bold";
     document.getElementById("textarea1").style.color="blue";
@@ -19,7 +19,7 @@ function FancyRadio(){
 }
 
 function BoringRadio(){
-    alert("Fancy application will happen to the Text area");
+    alert("Boring application will happen to the Text area, change text back to normal");
 
     document.getElementById("textarea1").style.fontWeight="normal";
     document.getElementById("textarea1").style.color="black";
