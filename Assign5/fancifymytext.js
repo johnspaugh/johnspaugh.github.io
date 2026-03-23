@@ -29,7 +29,7 @@ function BoringRadio(){
 }
 
 function Moo(){
-    alert("'-Moo' will add after period sentence.-Moo");
+    alert("Now the text will change to uppercase and add '-Moo' after each period sentence.-Moo");
 
     let str = document.getElementById("textarea1");
 // was used for testing/debugging, comment out now
